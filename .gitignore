@@ -1,0 +1,19 @@
+# Ignore the output directory
+encrypted/
+decrypted/
+
+# Ignore the Python virtual environment
+.venv/
+
+# Optionally, add common Python-related ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
