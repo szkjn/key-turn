@@ -20,7 +20,7 @@ A basic Python application for encrypting and decrypting files using a password-
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:szkjn/key-turn.git
    cd key-turn
    ```
 
